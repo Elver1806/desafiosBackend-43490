@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Escuadra",
+        "price": 153.58,
+        "thumbnail": "link here",
+        "id": 1
+    },
+    {
+        "title": "Pera",
+        "price": 153.58,
+        "thumbnail": "link here",
+        "id": 2
+    },
+    {
+        "title": "Lomo",
+        "price": 153.58,
+        "thumbnail": "link here",
+        "id": 3
+    }
+]
